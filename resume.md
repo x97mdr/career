@@ -6,74 +6,53 @@
 
 ------
 
+My job description is a starting place and not a limit.
+
+An accomplished and experienced software development leader, with a career spanning close to 20 years, having experience leading teams of 20+ people in co-located and remote settings.
+
+I have 10+ years of experience building high-performance teams using agile frameworks, lean thinking, and a focus on empowering people.  
+
+A high-spirited and positive person with a "can do" attitude for whom obstacles are just another accomplishment waiting to happen.
+
+Looking forward to helping you drive your company to success.
+
+------
+
 ### Experience
 
-**Saba Software** *Manager, Software Development* __February 2018 to June 2019__
+**Saba Software** *Manager, Software Development* __January 2015 to June 2019__
 
-I moved back into a managerial role, remotely, with my old team in Quebec City.  My key accomplishments were:
+(Note: Halogen Software acquired in May 2017 by Saba Software)
 
-- Leading the first development effort in Saba Cloud by former TalentSpace developers.  This involved a lot of coordination and cooperation with Saba Cloud colleagues in California and India.
-- Successfully delivered several key features for the TalentSpace product.
-- Guided the team in a transition from 3-week to 1-week sprints.
+Manager of several Scrum teams with 10+ direct reports of varying roles (Java developers, database developers, software analysts and quality primes).
 
-**Saba Software** *Software Development Manager* __October 2017 to February 2018__
-
-After moving back to my home province of Nova Scotia, I worked as an
-individual contributor developing software to support development operations,
-with a focus on financial reporting systems. The software that I developed:
-
-- supported our SR&ED applications and provided guidance to finance on
-intellectual property ownership of the software formerly owned by Halogen.
-- Provided actionable insights to development teams and leadership by
-importing data from software that we used to support development. Importing
-of data was done with Spring Batch/Spring Cloud Data Flow using apps written
-with Kotlin. Data cleanup, data processing and visualizations were done in
-Python with Pandas and matplotlib/Seaborn.
-- Acted as a subject matter expert in specification by example (aka behaviordriven development) for our software analysts, leveraging my years of
-experience in this area to provide guidance for them as they worked with
-teams and other stakeholders.
-
-**Saba Software** *Manager, Software Development* __May 2017 to October 2017__
-
-After Halogen was acquired I continued in my role as a manager on the platform team, but I was also given responsibility for our learning team.
-
-I led the team that delivered a critical upgrade to a core piece of our learning product's infrastructure.  My other teams delivered a number of features in the core product as well.
-
-**Saba Software** *Manager, Software Development* __January 2015 to May 2017__
-
-Manager on the platform team, leading several diverse teams on the platform supporting customers and developers.  My teams delivered:
-
-- Object storage solution for large documents to help the company save money on database licensing for storage and backup.
-- A new unified installer, offering a better install experience for our on-premise customers and developers.
-- An upgrade of application servers.  This was a complex, multi-release project that required communication with many different stakeholders.
-- Improved build and test times that had a significant impact on product quality.
-
-I supported my teams with weekly or bi-weekly one-on-ones and team meetings.  I supported the larger platform team by acting as a liaison between our Quebec City and Ottawa offices.  Working closely with product and platform teams to build better relationships and ensure successful delivery.
-
-I also led and advised on several initiatives outside of my management role to benefit the company: 
-
-- Led and advised on our department's move to an agile methodology.  I organized scrum training for the entire department and worked with teams to help them adjust to the new way of working.  I led our initiative to move from 3-week to 2-week sprints.
-- Participated in the Culture Club, representing software development. As part of this, I was an early participant/leader in developing our move from an annual appraisal culture to a feedback-oriented culture.
-- Acted as a mentor for others in the department.
+- Delivered several features on-time assisting in driving company growth of 5-15% every year.  Never missed a release deadline.
+  - Some features reduced operational costs by $400,000+ annually and improved the capacity for sites in our SaaS environment by 25%.
+- Coached and mentored developers with weekly 1:1 meetings, personal coaching and team retrospectives leading to no voluntary attrition and several promotions.
+- Led several initiatives to improve automated testing to minimize the feedback loop for developers.  These initiatives led to:
+- Reducing manual regression effort by 66%.
+- Reducing the amount of time required to know if a build failed from one (1) hour to five (5) minutes.
+- Driving the customer support filtration rate down to 1-2%.
+- Reduced time spent in Scrum ceremonies by 30%+ by reducing sprint length from 3 to 1 weeks.
+- Led development of a new product line (ended with the acquisition by Saba) demonstrating our ability to do devops style development.
+- Drove adoption of a feedback-based learning culture eliminating annual performance reviews and quarterly goals in favor of monthly feedback and regular goal setting as measures of performance.
+- Wrote several SR&ED submissions, and provided financial reporting for same, recouping 30-50% of salary costs through tax credits year over year.
+- Designed, developed and delivered a financial reporting system to measure the amount of intellectual property owned by Saba Canada vs. Saba USA leading to valuable tax savings for Saba.
+- Designed, developed and delivered a reporting system providing insights into development by gathering data from tools reducing risk by helping teams identify why work was coming in late and improved quality by identifying gaps in automation coverage. 
 
 **Statistics Canada** *Senior Technical Lead* __2012 to 2015__
 
-Technical lead for 20+ developers on the Collection Management Portal (CMP) project.  This software was intended to become the one piece of software that ran every survey that Statistics Canada conducted and would replace dozens of existing systems and methodologies.  I originally started the project doing business analysis using Specification by Example/Behavior Driven Development, but transitioned to technical lead based on staffing requirements.
+Technical lead for 20+ developers on the Collection Management Portal (CMP) project.  This software was intended to become the one piece of software that ran every survey that Statistics Canada conducted and would replace dozens of existing systems and methodologies.
 
 Key accomplishments:
 
-- Successfully delivered software for the first major milestone release (the Census 2016 behavioral test).
-- Developed the logging infrastructure (elasticsearch-logstash-kibana) used to monitor the nodes of our application in all environments.
-- Developed a standard data set for use in both unit tests and for populating a local database to help developers test features quickly and easily.
-- Developed a sandbox project to help new developers get up to speed.
-- Migrated the database migration tool from Flyway to Liquibase.  After some time I also led the development of a new liquibase baseline to make migrations faster.
-- Ran monthly team retrospectives to improve the way that we worked.
-- Focused on quality by training the team on test-driven development and behavior-driven development and participating in code reviews.
-
-Outside of my technical lead role, I ran several initiatives for the benefit of other developers in the agency:
-
-- Administered the Jira and Subversion instances for Statistics Canada.  This involved everything from provisioning servers and developing disaster recovery plans to helping new teams figure out how to setup their Jira project with workflows/fields/screens and import existing repositories into subversion.
-- Spearheaded Behavior Driven Development (BDD) at Statistics Canada.  This involved over a dozen presentations to different teams and follow-on advice and guidance.
+- Developed a logging infrastructure (elasticsearch-logstash-kibana) reducing debugging times from hours to minutes and improving visibility into production environment.
+- Developed a sandbox project and  standard data set allowing new developers to get up and running on day one.
+- Changed the database migration tool from Flyway to Liquibase reducing time required for a migration from IBM DB2 to Oracle from weeks to days.
+- Ran monthly team retrospectives leading to a culture of continuous improvement.
+- Participated in code reviews leading to improvements in overall software quality.
+- Administered the Jira and Subversion instances for Statistics Canada leading to the wide adoption of these tools, reducing the variety of existing tools and associated maintenance.  This also improved quality as several projects that had no issue tracking or source control were able to access this corporate initiative.
+- Spearheaded Behavior Driven Development (BDD) at Statistics Canada delivering over a dozen presentations to different teams and providing follow-on advice and guidance leading to quality improvements on several key projects.
 
 **Statistics Canada** *Project Leader* __2007 to 2012__
 
@@ -81,7 +60,24 @@ Led a small team of 3-5 persons developing systems in C# and ASP.NET to support 
 
 Focused on batch processing systems and some small web applications.
 
-- Re-wrote large, complex system from scratch with C# using object-oriented design techniques.
-- Used Behavior Driven Development to analyze requirements and build an automated test suite for applications.
-- Used Test Driven Development to assist in good design and prevent regressions.
-- Pioneered Kanban implementation at Statistics Canada.
+- Designed, developed and delivered a complete re-write of an existing edit and imputation system using C#/.NET, domain-driven design, test-driven development (TDD) and behavior-driven development (BDD) reducing the number of production bugs found from hundreds in the 2006 Census to a total of 3 in the 2011 and 2016 Censuses.
+- Designed and developed a lexer/parser for decision tables adding new functionality and reducing maintenance time of existing decision tables.
+- Developed a parallel processing algorithm greatly reducing the amount of time it took to find donor records for records requiring imputation.  
+- Pioneered the use of Kanban at Statistics Canada leading to improved quality and customer satisfaction by focusing on limiting work-in-progress, visualizing work, standardizing practices and a focus on teamwork.
+- Delivered several high-quality systems to support the Census 2011 Edit and Imputation Task meeting production schedules with a high level of quality and operator satisfaction.
+
+**Statistics Canada** *Programmer/analyst* __2000 to 2007__
+
+Developed batch processing systems to support the Canadian Census.
+
+- Wrote several systems in C, originally running on an IBM Mainframe and then on personal workstations.
+- Developed SAS scripts to assist in Extract, Transform and Load (ETL) operations.
+- Designed database to store edited data.
+
+------
+
+### Education
+
+**Bachelor of Computer Science** __1998 to 2000__
+	St. Francis Xavier University, Antigonish, Nova Scotia
+    Dean's List 1999
